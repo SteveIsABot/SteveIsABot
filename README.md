@@ -16,7 +16,7 @@ My current favorite project that I have worked on was:
 - Team Project 2023 (Team Website Development)
 
 ---
-<p>My current hobbies are, gym, playing pool, and novice boldering.
+<p>My current hobbies are, gym, playing pool, and I am new boldering.
 I actively try to partace in these hobbies as much as possible and quite enjoy them.
 </p>
 <!---
