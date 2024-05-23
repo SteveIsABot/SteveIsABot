@@ -16,10 +16,6 @@ My current favorite project that I have worked on was:
 - Infinite Terrain Generation
 - Team Project 2023 (Team Website Development)
 
----
-<p>My current hobbies are, gym, playing pool, and I am new boldering.
-  I actively try to partake in these hobbies as much as possible and quite enjoy them.
-</p>
 <!---
 SteveIsABot/SteveIsABot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
