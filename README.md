@@ -14,7 +14,7 @@ Hi, I’m @SteveIsABot!<br>
 
 My current favorite project that I have worked on was:
 - Infinite Terrain Generation
-- Team Project 2023 (Team Website Development)
+- Team Project 2022 (Team Website Development)
 
 <!---
 SteveIsABot/SteveIsABot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
